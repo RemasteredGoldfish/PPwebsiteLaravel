@@ -9,7 +9,7 @@
 <nav class="bg-gray-800 py-4">
     <div class="container mx-auto flex justify-between items-center">
         <a href="/" class="text-white text-lg font-semibold">
-            <img src="/public/images/thumbsup.jpg" class="h-8 w-auto" alt="je moeder"></a>
+            <img src="/public/images/thumbsup.jpg" class="h-8 w-auto" alt="Title"></a>
         <ul class="flex space-x-4">
             <li><a href="#" class="text-white hover:text-gray-300">Home</a></li>
             <li><a href="#" class="text-white hover:text-gray-300">About</a></li>
