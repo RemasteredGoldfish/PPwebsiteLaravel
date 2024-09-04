@@ -11,7 +11,7 @@
         <a href="/" class="text-white text-lg font-semibold">
             <img src="/public/images/thumbsup.jpg" class="h-8 w-auto" alt="Title"></a>
         <ul class="flex space-x-4">
-            <li><a href="#" class="text-white hover:text-gray-300">monkey</a></li>
+            <li><a href="#" class="text-white hover:text-gray-300">home</a></li>
             <li><a href="#" class="text-white hover:text-gray-300">About</a></li>
             <li><a href="#" class="text-white hover:text-gray-300">Services</a></li>
             <li><a href="#" class="text-white hover:text-gray-300">Contact</a></li>
